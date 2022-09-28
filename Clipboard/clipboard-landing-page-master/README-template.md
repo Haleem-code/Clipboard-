@@ -5,16 +5,38 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ## Table of contents
 
 - [Overview](#overview)
+
+    Overview
+        The challenge
+        Screenshot
+        Links
+    My process
+        Built with
+    Author
+
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  ![](img/design/desktop-design.jpg)
+  ![](img/design/mobile-design.jpg)
+  
   - [Links](#links)
+  https://github.com/Haleem-code/Clipboard-.git
 - [My process](#my-process)
   - [Built with](#built-with)
+  this project was built with HTML and CSS
   - [What I learned](#what-i-learned)
+  I was able to use media queries for the desktop design
+  and i also learnt how to change svg icons color on hover state
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  stackoverflow
+  css-tricks
+  w3school
 - [Author](#author)
+  Haleem-code
 - [Acknowledgments](#acknowledgments)
+
+i agree that practice makes perfect
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
